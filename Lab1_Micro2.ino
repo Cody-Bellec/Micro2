@@ -1,4 +1,4 @@
-// compotnets are linked to destination pins on adurino can be changed
+// components are linked to destination pins on adurino can be changed
 int redLed = 13;
 int yellowLed = 12;
 int greenLed = 11;
